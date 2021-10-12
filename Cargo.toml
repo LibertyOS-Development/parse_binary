@@ -1,0 +1,9 @@
+[package]
+name = "parse_binary"
+version = "0.1.0"
+edition = "2018"
+authors = ["Daniel P. Teberian"]
+description = "Parse binary data, without std, and without allocation."
+categories = ["no-std"]
+repository = "https://github.com/LibertyOS-Development/parse_binary"
+license = "Apache-2.0"
